@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/seiferco](https://github.com/seiferco)
+- 👨‍💻 All of my projects are available at [https://github.com/seiferco?tab=repositories](https://github.com/seiferco?tab=repositories)
 
 - 📫 How to reach me **seiferco@oregonstate.edu**
 
